@@ -2,9 +2,9 @@
 
 namespace Masterix21\LaravelGreenPass;
 
+use Masterix21\LaravelGreenPass\Commands\LaravelGreenPassCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Masterix21\LaravelGreenPass\Commands\LaravelGreenPassCommand;
 
 class LaravelGreenPassServiceProvider extends PackageServiceProvider
 {
