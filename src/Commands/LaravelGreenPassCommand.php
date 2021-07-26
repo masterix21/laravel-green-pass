@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Masterix21\LaravelGreenPass\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelGreenPassCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-green-pass';
 
     public $description = 'My command';
 

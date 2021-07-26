@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Masterix21\LaravelGreenPass\Tests;
 
 class ExampleTest extends TestCase
 {
